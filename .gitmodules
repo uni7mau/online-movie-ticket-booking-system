@@ -1,6 +1,7 @@
-[submodule "online-movie-ticket-booking-system-front-end-dashboard"]
-	path = online-movie-ticket-booking-system-front-end-dashboard
-	url = https://github.com/uni7mau/online-movie-ticket-booking-system-front-end-dashboard.git
-[submodule "online-movie-ticket-booking-system-front-end-users"]
-	path = online-movie-ticket-booking-system-front-end-users
-	url = https://github.com/uni7mau/online-movie-ticket-booking-system-front-end-users.git
+
+[submodule "omotickbs-frontend-user"]
+	path = omotickbs-frontend-user
+	url = https://github.com/uni7mau/online-movie-ticket-booking-system-frontend-user.git
+[submodule "omotickbs-frontend-dashboard"]
+	path = omotickbs-frontend-dashboard
+	url = https://github.com/uni7mau/online-movie-ticket-booking-system-frontend-dashboard.git
