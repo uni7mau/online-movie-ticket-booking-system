@@ -1,4 +1,3 @@
-
 [submodule "omotickbs-frontend-user"]
 	path = omotickbs-frontend-user
 	url = https://github.com/uni7mau/online-movie-ticket-booking-system-frontend-user.git
